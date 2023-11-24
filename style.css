@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://img.freepik.com/vetores-premium/padrao-sem-emenda-com-ferramentas-e-suprimentos-fundo-colorido-para-cuidar-de-um-salao-de-beleza-e-pet-shop_195968-32.jpg);
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+}
+
+div{
+    
+    background-color: rgb(16, 233, 157);
+    padding: 120px;
+    margin: 350px;
+    border-radius: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+
